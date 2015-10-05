@@ -1,0 +1,13 @@
+﻿body {
+    color:white;
+    font-family:'Courier New';
+    font-size:12pt;
+    background:inherit;
+    background-color:black;
+}
+
+h2 {
+    font-size:25pt;
+    text-align:center;
+    text-decoration:underline;
+}

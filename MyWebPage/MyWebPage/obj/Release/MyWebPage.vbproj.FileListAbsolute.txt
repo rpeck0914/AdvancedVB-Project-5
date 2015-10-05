@@ -1,0 +1,15 @@
+J:\CIS212\RobertPeckProject5\MyWebPage\MyWebPage\bin\MyWebPage.dll
+J:\CIS212\RobertPeckProject5\MyWebPage\MyWebPage\bin\MyWebPage.pdb
+J:\CIS212\RobertPeckProject5\MyWebPage\MyWebPage\bin\MyWebPage.xml
+J:\CIS212\RobertPeckProject5\MyWebPage\MyWebPage\bin\SelectTablesLibrary.dll
+J:\CIS212\RobertPeckProject5\MyWebPage\MyWebPage\bin\DataBaseConnectorLibrary.dll
+J:\CIS212\RobertPeckProject5\MyWebPage\MyWebPage\bin\SelectTablesLibrary.pdb
+J:\CIS212\RobertPeckProject5\MyWebPage\MyWebPage\bin\SelectTablesLibrary.xml
+J:\CIS212\RobertPeckProject5\MyWebPage\MyWebPage\bin\DataBaseConnectorLibrary.pdb
+J:\CIS212\RobertPeckProject5\MyWebPage\MyWebPage\bin\DataBaseConnectorLibrary.xml
+J:\CIS212\RobertPeckProject5\MyWebPage\MyWebPage\obj\Release\MyWebPage.vbprojResolveAssemblyReference.cache
+J:\CIS212\RobertPeckProject5\MyWebPage\MyWebPage\obj\Release\MyWebPage.Resources.resources
+J:\CIS212\RobertPeckProject5\MyWebPage\MyWebPage\obj\Release\MyWebPage.vbproj.GenerateResource.Cache
+J:\CIS212\RobertPeckProject5\MyWebPage\MyWebPage\obj\Release\MyWebPage.dll
+J:\CIS212\RobertPeckProject5\MyWebPage\MyWebPage\obj\Release\MyWebPage.xml
+J:\CIS212\RobertPeckProject5\MyWebPage\MyWebPage\obj\Release\MyWebPage.pdb

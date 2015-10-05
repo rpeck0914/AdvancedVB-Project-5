@@ -1,0 +1,8 @@
+J:\CIS212\RobertPeckProject02\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+J:\CIS212\RobertPeckProject02\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+J:\CIS212\RobertPeckProject02\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.xml
+J:\CIS212\RobertPeckProject02\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.Resources.resources
+J:\CIS212\RobertPeckProject02\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.vbproj.GenerateResource.Cache
+J:\CIS212\RobertPeckProject02\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+J:\CIS212\RobertPeckProject02\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.xml
+J:\CIS212\RobertPeckProject02\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

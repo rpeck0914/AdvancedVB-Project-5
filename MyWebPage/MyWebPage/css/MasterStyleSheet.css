@@ -1,0 +1,28 @@
+﻿body {
+    background-color:black;
+    background-image: url('../Images/kzoo.jpg');
+    background-position-x:center;
+    background-position-y:150px;
+    background-repeat:no-repeat;
+   
+}
+
+h1 {
+    font-family:FangSong;
+    color:crimson;
+    font-size: 50pt;
+    border-bottom:solid;
+    border-bottom-color:crimson;
+}
+
+hr {
+    border-bottom-color:crimson;
+}
+
+h4 {
+    text-align:center;
+}
+
+h5 {
+    text-align:left;
+}

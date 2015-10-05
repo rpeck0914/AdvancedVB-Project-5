@@ -1,0 +1,572 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+MyWebPage
+</name>
+</assembly>
+<members>
+<member name="F:MyWebPage.WebForm6.OrdersDropDownList">
+	<summary>
+OrdersDropDownList control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MyWebPage.WebForm6.SearchOrderButton">
+	<summary>
+SearchOrderButton control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MyWebPage.WebForm6.OrderedItemsPanel">
+	<summary>
+OrderedItemsPanel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MyWebPage.WebForm6.OrderDetailsGridView">
+	<summary>
+OrderDetailsGridView control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MyWebPage.WebForm6.TotalsLabel">
+	<summary>
+TotalsLabel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MyWebPage.Site.head">
+	<summary>
+head control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MyWebPage.Site.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MyWebPage.Site.TabButtonPanel">
+	<summary>
+TabButtonPanel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MyWebPage.Site.HomeButton">
+	<summary>
+HomeButton control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MyWebPage.Site.ProductsButton">
+	<summary>
+ProductsButton control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MyWebPage.Site.SuppliersButton">
+	<summary>
+SuppliersButton control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MyWebPage.Site.OrderFormButton">
+	<summary>
+OrderFormButton control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MyWebPage.Site.OrderDetailsButton">
+	<summary>
+OrderDetailsButton control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MyWebPage.Site.ErrorLabel">
+	<summary>
+ErrorLabel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MyWebPage.Site.LoadLabel">
+	<summary>
+LoadLabel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MyWebPage.Site.ContentPlaceHolder1">
+	<summary>
+ContentPlaceHolder1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MyWebPage.WebForm1.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MyWebPage.WebForm1.EnterButton">
+	<summary>
+EnterButton control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MyWebPage.WebForm5.CustomerInfoPanel">
+	<summary>
+CustomerInfoPanel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MyWebPage.WebForm5.CompanyNameDropDownList">
+	<summary>
+CompanyNameDropDownList control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MyWebPage.WebForm5.EmployeeNameDropDownList">
+	<summary>
+EmployeeNameDropDownList control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MyWebPage.WebForm5.RequiredDateTextBox">
+	<summary>
+RequiredDateTextBox control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MyWebPage.WebForm5.ShipViaDropDownList">
+	<summary>
+ShipViaDropDownList control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MyWebPage.WebForm5.ShipNameTextBox">
+	<summary>
+ShipNameTextBox control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MyWebPage.WebForm5.ShipAddressTextBox">
+	<summary>
+ShipAddressTextBox control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MyWebPage.WebForm5.ShipCityTextBox">
+	<summary>
+ShipCityTextBox control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MyWebPage.WebForm5.ShipRegionTextBox">
+	<summary>
+ShipRegionTextBox control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MyWebPage.WebForm5.ShipPostalCodeTextBox">
+	<summary>
+ShipPostalCodeTextBox control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MyWebPage.WebForm5.ShipCountryTextBox">
+	<summary>
+ShipCountryTextBox control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MyWebPage.WebForm5.StartOrderButton">
+	<summary>
+StartOrderButton control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MyWebPage.WebForm5.ConfirmationLabel">
+	<summary>
+ConfirmationLabel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MyWebPage.WebForm5.ProductInformationPanel">
+	<summary>
+ProductInformationPanel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MyWebPage.WebForm5.ProductDropDownList">
+	<summary>
+ProductDropDownList control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MyWebPage.WebForm5.QuantityTextBox">
+	<summary>
+QuantityTextBox control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MyWebPage.WebForm5.OrderNumberTextBox">
+	<summary>
+OrderNumberTextBox control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MyWebPage.WebForm5.DiscountTextBox">
+	<summary>
+DiscountTextBox control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MyWebPage.WebForm5.AddItemButton">
+	<summary>
+AddItemButton control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MyWebPage.WebForm5.ErrorLabel">
+	<summary>
+ErrorLabel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MyWebPage.WebForm5.OrderedItemsPanel">
+	<summary>
+OrderedItemsPanel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MyWebPage.WebForm5.OrderGridView">
+	<summary>
+OrderGridView control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MyWebPage.WebForm4.SuppliersDropDownList">
+	<summary>
+SuppliersDropDownList control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MyWebPage.WebForm4.SearchSupplierButton">
+	<summary>
+SearchSupplierButton control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MyWebPage.WebForm4.EditCheckBox">
+	<summary>
+EditCheckBox control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MyWebPage.WebForm4.EditPanel">
+	<summary>
+EditPanel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MyWebPage.WebForm4.CompanyNameTextBox">
+	<summary>
+CompanyNameTextBox control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MyWebPage.WebForm4.ContactNameTextBox">
+	<summary>
+ContactNameTextBox control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MyWebPage.WebForm4.ContactTitleTextBox">
+	<summary>
+ContactTitleTextBox control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MyWebPage.WebForm4.AddressTextBox">
+	<summary>
+AddressTextBox control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MyWebPage.WebForm4.CityTextBox">
+	<summary>
+CityTextBox control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MyWebPage.WebForm4.RegionTextBox">
+	<summary>
+RegionTextBox control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MyWebPage.WebForm4.PostalCodeTextBox">
+	<summary>
+PostalCodeTextBox control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MyWebPage.WebForm4.CountryTextBox">
+	<summary>
+CountryTextBox control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MyWebPage.WebForm4.PhoneTextBox">
+	<summary>
+PhoneTextBox control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MyWebPage.WebForm4.FaxTextBox">
+	<summary>
+FaxTextBox control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MyWebPage.WebForm4.SaveButton">
+	<summary>
+SaveButton control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MyWebPage.WebForm4.DeleteButton">
+	<summary>
+DeleteButton control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MyWebPage.WebForm4.DeleteConfirmationPanel">
+	<summary>
+DeleteConfirmationPanel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MyWebPage.WebForm4.IDInputTextBox">
+	<summary>
+IDInputTextBox control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MyWebPage.WebForm4.DeleteConfirmationButton">
+	<summary>
+DeleteConfirmationButton control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MyWebPage.WebForm4.ErrorLabel">
+	<summary>
+ErrorLabel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MyWebPage.WebForm4.SuppliersGridView">
+	<summary>
+SuppliersGridView control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="P:MyWebPage.My.MyWebExtension.Computer">
+	<summary>
+ Returns information about the host computer.
+ </summary>
+</member><member name="P:MyWebPage.My.MyWebExtension.User">
+	<summary>
+ Returns information for the current Web user.
+ </summary>
+</member><member name="P:MyWebPage.My.MyWebExtension.Request">
+	<summary>
+ Returns Request object.
+ </summary>
+</member><member name="P:MyWebPage.My.MyWebExtension.Response">
+	<summary>
+ Returns Response object.
+ </summary>
+</member><member name="P:MyWebPage.My.MyWebExtension.Log">
+	<summary>
+ Returns the Asp log object.
+ </summary>
+</member><member name="T:MyWebPage.My.MyWebExtension">
+	<summary>
+ Module used to define the properties that are available in the My Namespace for Web projects.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:MyWebPage.WebForm3.ProductsDropDownList">
+	<summary>
+ProductsDropDownList control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MyWebPage.WebForm3.SupplierDropDownList">
+	<summary>
+SupplierDropDownList control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MyWebPage.WebForm3.SearchProductButton">
+	<summary>
+SearchProductButton control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MyWebPage.WebForm3.SearchSupplierButton">
+	<summary>
+SearchSupplierButton control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MyWebPage.WebForm3.ErrorLabel">
+	<summary>
+ErrorLabel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MyWebPage.WebForm3.ProductsGridView">
+	<summary>
+ProductsGridView control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+</members>
+</doc>

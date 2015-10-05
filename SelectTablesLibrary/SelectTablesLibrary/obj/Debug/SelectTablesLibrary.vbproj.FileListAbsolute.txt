@@ -1,0 +1,12 @@
+J:\CIS212\RobertPeckProject5\SelectTablesLibrary\SelectTablesLibrary\bin\Debug\SelectTablesLibrary.dll
+J:\CIS212\RobertPeckProject5\SelectTablesLibrary\SelectTablesLibrary\bin\Debug\SelectTablesLibrary.pdb
+J:\CIS212\RobertPeckProject5\SelectTablesLibrary\SelectTablesLibrary\bin\Debug\SelectTablesLibrary.xml
+J:\CIS212\RobertPeckProject5\SelectTablesLibrary\SelectTablesLibrary\bin\Debug\DataBaseConnectorLibrary.dll
+J:\CIS212\RobertPeckProject5\SelectTablesLibrary\SelectTablesLibrary\bin\Debug\DataBaseConnectorLibrary.pdb
+J:\CIS212\RobertPeckProject5\SelectTablesLibrary\SelectTablesLibrary\bin\Debug\DataBaseConnectorLibrary.xml
+J:\CIS212\RobertPeckProject5\SelectTablesLibrary\SelectTablesLibrary\obj\Debug\SelectTablesLibrary.vbprojResolveAssemblyReference.cache
+J:\CIS212\RobertPeckProject5\SelectTablesLibrary\SelectTablesLibrary\obj\Debug\SelectTablesLibrary.Resources.resources
+J:\CIS212\RobertPeckProject5\SelectTablesLibrary\SelectTablesLibrary\obj\Debug\SelectTablesLibrary.vbproj.GenerateResource.Cache
+J:\CIS212\RobertPeckProject5\SelectTablesLibrary\SelectTablesLibrary\obj\Debug\SelectTablesLibrary.dll
+J:\CIS212\RobertPeckProject5\SelectTablesLibrary\SelectTablesLibrary\obj\Debug\SelectTablesLibrary.xml
+J:\CIS212\RobertPeckProject5\SelectTablesLibrary\SelectTablesLibrary\obj\Debug\SelectTablesLibrary.pdb

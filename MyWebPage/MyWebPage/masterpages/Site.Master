@@ -1,0 +1,36 @@
+﻿<%@ Master Language="VB" AutoEventWireup="false" CodeBehind="Site.master.vb" Inherits="MyWebPage.Site" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <link href="../css/MasterStyleSheet.css" rel="stylesheet" />
+    <title>Kalamazoo Goods</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <h1>Kalamazoo Goods</h1>
+        <asp:Panel ID="TabButtonPanel" runat="server">
+            <asp:Button ID="HomeButton" runat="server" Text="Home" width="150px" Height="50px" BackColor="Crimson" BorderColor="Black" Font-Bold="true" Font-Size="Medium" Enabled="true" OnClick="HomeButton_Click"/>
+            <asp:Button ID="ProductsButton" runat="server" Text="Products" width="150px" Height="50px" BackColor="crimson" BorderColor="Black" Font-Bold="true" Font-Size="Medium" Enabled="true" OnClick="ProductsButton_Click" />
+            <asp:Button ID="SuppliersButton" runat="server" Text="Suppliers" width="150px" Height="50px" BackColor="crimson" BorderColor="Black" Font-Bold="true" Font-Size="Medium" Enabled="true" OnClick="SuppliersButton_Click" />
+            <asp:Button ID="OrderFormButton" runat="server" Text="Order Form" width="150px" Height="50px" BackColor="crimson" BorderColor="Black" Font-Bold="true" Font-Size="Medium" Enabled="true" OnClick="OrderFormButton_Click" />
+            <asp:Button ID="OrderDetailsButton" runat="server" Text="Order Details" width="150px" Height="50px" BackColor="crimson" BorderColor="Black" Font-Bold="true" Font-Size="Medium" Enabled="true" OnClick="OrderDetailsButton_Click" />
+            <asp:Label ID="ErrorLabel" runat="server" Text=""></asp:Label>
+        </asp:Panel>
+
+        <hr />
+        <asp:Label ID="LoadLabel" runat="server" Text=""></asp:Label>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        </asp:ContentPlaceHolder>
+
+        <hr />
+        <h5>CIS 212 Final Project</h5>
+        <h4>&copy Robert Peck</h4>     
+    </div>
+    </form>
+</body>
+</html>
